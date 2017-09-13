@@ -1,0 +1,14 @@
+#youwon {
+	width: 200px;
+	height: 200px;
+	background-color: #E333FF;
+	border: 10px solid red;
+	margin: auto;
+}
+  
+  .won {
+    width: 150px;
+    height: 200px;
+    background: orange;
+    position: absolute;
+  } 	 
